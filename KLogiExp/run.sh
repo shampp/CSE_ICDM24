@@ -1,0 +1,49 @@
+cd K4/
+echo "K4"
+python3 logistics_exp.py
+cd ../K8/
+echo "K8"
+python3 logistics_exp.py
+echo "K16"
+cd ../K16/
+python3 logistics_exp.py
+echo "K32"
+cd ../K32/
+python3 logistics_exp.py
+echo "K64"
+cd ../K64/
+python3 logistics_exp.py
+
+
+cd ../K16_1/
+echo "K16_1"
+python3 logistics_exp.py
+cd ../K16_1p5/
+echo "K16_1p5"
+python3 logistics_exp.py
+cd ../K16_2/
+echo "K16_2"
+python3 logistics_exp.py
+cd ../K16_2p5/
+echo "K16_2p5"
+python3 logistics_exp.py
+cd ../K16_3/
+echo "K16_3"
+python3 logistics_exp.py
+
+
+cd ../C25/
+echo "C25"
+python3 logistics_exp.py
+cd ../C50/
+echo "C50"
+python3 logistics_exp.py
+echo "C100"
+cd ../C100/
+python3 logistics_exp.py
+echo "C200"
+cd ../C200/
+python3 logistics_exp.py
+echo "C500"
+cd ../C500/
+python3 logistics_exp.py
