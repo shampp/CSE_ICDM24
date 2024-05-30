@@ -1,1 +1,14 @@
-Please run run.sh from within the respective folders
+The results given in the paper can be obtained by running the bash script run.sh from within the respective folders
+
+**The code makes use of following package dependencies
+itertools
+numpy
+collections
+operator
+math 
+pathlib 
+logging
+statistics 
+scipy
+sklearn
+matplotlib
