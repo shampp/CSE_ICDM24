@@ -1,6 +1,7 @@
 The results given in the paper can be obtained by running the bash script run.sh from within the respective folders
 
-**The code makes use of following package dependencies
+The code makes use of following package dependencies
+
 itertools
 numpy
 collections
